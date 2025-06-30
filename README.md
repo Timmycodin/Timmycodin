@@ -2,8 +2,8 @@
 Hi, I'm Timmycodin
 ==================
 
-I’m Timmy, a code-slinging, keyboard-smashing, curiosity-chasing dev-in-progress.  
-I live in the beautiful chaos where code, caffeine, and way-too-many tabs collide.  
+I’m Timmy, a code-slinging, keyboard-smashing, curiosity-chasing dev-in-progress, and a Georgia Tech class farmer (summer camps ofc, 2025: Lego Robotics)
+I landed in the beautiful chaos where code, caffeine, and way-too-many tabs collide called Github.
 Welcome to my GitHub! Stay awhile. Or don’t. I can’t stop you 😎
 
 =========
